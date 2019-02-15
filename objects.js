@@ -1,5 +1,5 @@
-var p = { arists:"song"}
-function updatePlaylist(p,artist,song)
+var playlist = { arists:"song"}
+function updatePlaylist(playlist,artist,"song")
 { 
-  return p;song  
+  return playlist  
 } 
