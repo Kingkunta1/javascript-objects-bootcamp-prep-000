@@ -1,4 +1,4 @@
-var playlist = { arists:"song",}
+var playlist = { artists:"song",}
 
 function updatePlaylist( playlist,arists,song)
 { 
